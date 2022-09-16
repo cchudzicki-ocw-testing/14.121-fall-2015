@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets from the 2005 version of this
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

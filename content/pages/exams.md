@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides practice exams and a final exam from previous versions
+  of the course. Solutions are not provided.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
